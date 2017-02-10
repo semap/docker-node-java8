@@ -1,1 +1,1 @@
-Node, OracleJDK 8, MavenDocker image
+Docker image for Node, Oracle JDK 8 with JCE and Maven 
